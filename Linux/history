@@ -1,0 +1,107 @@
+  256  cd var
+  257  mkdir GB
+  258  cd GB
+  259  mkdir pitomnick
+  260  cd pitomnick/
+  261  cat pets
+  262  cat pets.txt
+  263  cat > pets.txt
+  264  cat pets
+  265  cat pets.txt
+  266  cat > pack_animals.txt
+  267  cat pack_animals.txt
+  268  cat pets.txt pack_animals.txt>all_animals.txt
+  269  cat all_animals.txt
+  270  sudo apt install git
+  271  cd..
+  272  cd
+  273  cd var/GB/
+  274  git init
+  275  cd pitonmick
+  276  cd pitomick
+  277  cd pitomnick
+  278  git init
+  279  git add pets.txt
+  280  git addpack_animals.txt
+  281  git add pack_animals.txt
+  282  git commit -m "add pets and pack_animals"
+  283  git push origin master
+  284  git push origin https://github.com/NeKit03/Final_work_of_1_year.git
+  285  git remote add  origin https://github.com/NeKit03/Final_work_of_1_year.git~
+  286  git push origin master
+  287  git push origin main
+  288  cd var/GB/
+  289  git add .
+  290  git commit -m "Начало"
+  291  git remote add  origin https://github.com/NeKit03/Final_work_of_1_year.git~
+  292  git push origin master
+  293  git config --global user.name "NeKit03"
+  294  git config --global user.email "nikita91797@gmail.com"
+  295  git clone https://github.com/NeKit03/Final_work_of_1_year.git
+  296  git add .
+  297  cd Final_work_of_1_year/
+  298  git add .
+  299  git commit -m "Создание репозитория с файлами животных"
+  300  git push origin main
+  301  git push origin master
+  302  git push origin main
+  303  git remote add  origin https://github.com/NeKit03/Final_work_of_1_year.git~
+  304  git push origin main
+  305  git remote -v
+  306  git push origin main
+  307  git push origin master --force
+  308  git push origin main --force
+  309  git remote -v
+  310  git push origin master
+  311  git config --global credential.helper cache
+  312  git pull -v
+  313  cd
+  314  cd var/GB/
+  315  git clone https://git_ругается.com/NeKit03/Final_work_of_1_year.git
+  316  git add .
+  317  cd Final_work_of_1_year/
+  318  git add .
+  319  git commit -m "Добавление файлов с животными"
+  320  git remote -v
+  321  git push origin main
+  322  mkdir pitomnik
+  323  git add .
+  324  git push origin main
+  325  git commit -m "Добавление файлов с животными в папку"
+  326  git push origin main
+  327  sudo apt update
+  328  sudo apt install gnupg
+  329  wget https://dev.mysql.com/get/mysql-apt-config_0.8.26-1_all.deb
+  330  ll
+  331  sudo dpkg -i mysql-apt-config*
+  332  sudo apt update
+  333  sudo apt install mysql-server
+  334  sudo systemctl status mysql
+  335  dpkg -l | grep steam
+  336  sudo dpkg -r stem
+  337  sudo dpkg -r stem*
+  338  sudo dpkg -r steam*
+  339  sudo dpkg -r steam
+  340  dpkg -l
+  341  sudo wget https://discord.com/api/download?platform=linux&format=deb~
+  342  sudo wget https://discord.com/api/download?platform=linux&format=deb
+  343  sudo apt-get remove steam
+  344  sudo dpkg -i discord*
+  345  cd /home/nikita/Загрузки
+  346  sudo dpkg -i discord*
+  347  sudo dpkg -r discord
+  348  history
+  349  cat>history.txt
+  350  cat history.txt
+  351  git commit -m "Добавление history"
+  352  cd /home/nikita/var/GB/Final_work_of_1_year
+  353  git commit -m "Добавление history"
+  354  git add .
+  355  git commit -m "Добавление history"
+  356  git push origin main
+  357  cat history.txt
+  358  cat>history.txt
+  359  history
+  360  cat>history.txt
+  361  cat history.txt
+  362  git add .
